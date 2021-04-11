@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstDocumentApp</string>
+    <string name="send_button">SEND</string>
+    <string name="digite_o_seu_texto_aqui">Digite o seu texto aqui.</string>
+</resources>
