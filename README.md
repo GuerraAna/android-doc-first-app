@@ -8,6 +8,7 @@ Este Repositório é parte de uma das minhas interpretações e resumos das guia
 
 
 
+
 ### Assuntos abordados no projeto:
 
 #### 1) Introdução;
@@ -22,9 +23,12 @@ Este Repositório é parte de uma das minhas interpretações e resumos das guia
 
 
 
+
 #### Localização do meu Documento:
 
 Este documento está sendo finalizando. Em breve disponibilizarei aqui o link para acessá-lo.
+
+
 
 
 ### Fontes:
