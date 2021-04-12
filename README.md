@@ -1,6 +1,5 @@
 
-
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.geekhunter.com.br%2Flinguagens-de-programacao-para-android%2F&psig=AOvVaw2n7mrdihtV3Y25_8f1_eyA&ust=1618335676757000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJja2a6g-e8CFQAAAAAdAAAAABAD
+![image](https://user-images.githubusercontent.com/78937585/114437989-952f2e00-9b9d-11eb-9226-544ff2aec910.png)
 
 
 ### Introdução:
