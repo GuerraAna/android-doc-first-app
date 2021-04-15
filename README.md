@@ -4,7 +4,7 @@
 
 ## Introdução:🧐
 
-Este Repositório é parte de uma das minhas interpretações e resumos das guias do desenvolvedor Android. Estes documentos ensinam como criar os aplicativos usando os conceitos fundamentais do Android e da plataforma de ensino Digital Innovation One (DIO). 
+Este Repositório é parte de uma das minhas interpretações e resumos dos guias do desenvolvedor Android. Estes documentos ensinam como criar e evoluir os aplicativos usando os conceitos fundamentais do Android e da plataforma de ensino Digital Innovation One (DIO). 
 
 
 
@@ -26,9 +26,9 @@ Este Repositório é parte de uma das minhas interpretações e resumos das guia
 
 ### Localização do meu Documento:📄
 
-Este documento está sendo finalizando. Em breve disponibilizarei aqui o link para acessá-lo.
+Este socumento fora desenvolvido por mim, como disse na Introdução. Embora, tenham 5 tópicos declarados nos "Assuntos abordados no projeto", este documento está sem o último deles, o Arquivo de manifesto do app, por estar sendo reinterpretado e melhor estruturado.
 
-
+Enfim, segue o link para o meu documento: https://docs.google.com/document/d/1Z3PLicUcPyU2i-uxYPuL_BIDNbBreXYe9Hpk0-ZlrW8/edit?usp=sharing 
 
 
 ### Fontes:
