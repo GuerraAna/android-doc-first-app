@@ -28,7 +28,8 @@ Este Repositório é parte de uma das minhas interpretações e resumos dos guia
 
 Este socumento fora desenvolvido por mim, como disse na Introdução. Embora, tenham 5 tópicos declarados nos "Assuntos abordados no projeto", este documento está sem o último deles, o Arquivo de manifesto do app, por estar sendo reinterpretado e melhor estruturado.
 
-Enfim, segue o link para o meu documento: https://docs.google.com/document/d/1Z3PLicUcPyU2i-uxYPuL_BIDNbBreXYe9Hpk0-ZlrW8/edit?usp=sharing 
+Enfim, segue o link para o meu documento: 
+https://docs.google.com/document/d/1Z3PLicUcPyU2i-uxYPuL_BIDNbBreXYe9Hpk0-ZlrW8/edit?usp=sharing 
 
 
 ### Fontes:
